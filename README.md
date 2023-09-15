@@ -31,7 +31,7 @@ Fargate, IAM
 
 [![Green1.png](https://i.postimg.cc/m2YGMK0s/Green1.png)](https://postimg.cc/VdkTPZfG)
 
-#Title: Automating AWS ECS Deployments with CI/CD Pipeline
+## Title: Automating AWS ECS Deployments with CI/CD Pipeline
 
 In today's fast-paced world of software development, automating deployments is crucial for maintaining efficiency and consistency in your application's delivery process. Amazon Elastic Container Service (ECS) combined with Continuous Integration and Continuous Deployment (CI/CD) pipelines provides a powerful solution for automating deployments in the AWS cloud. In this blog post, we will walk through a project that demonstrates how to set up a CI/CD pipeline to automate ECS deployments.
 
